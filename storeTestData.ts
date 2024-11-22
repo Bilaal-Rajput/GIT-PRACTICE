@@ -20,7 +20,12 @@ export const documentDetailsTestData = {
     noRecordMessage: "You have no records of this type"
 }
 
+
 export const basketTestData = {
     editBtn: "Edit basket",
     emptyBasketMessage: "There are no items in your basket"
 }
+//this
+//iss
+//the
+//day
