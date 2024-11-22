@@ -24,7 +24,11 @@ export const documentDetailsTestData = {
 export const basketTestData = {
     editBtn: "Edit basket",
     emptyBasketMessage: "There are no items in your basket"
-}
+}']'
+
+
+
+shhholakjsdhouya89kla nojfojaf jlkzoj vd9uaofjnams jc9yfaln jcpjalki
 //this
 //iss
 //the
